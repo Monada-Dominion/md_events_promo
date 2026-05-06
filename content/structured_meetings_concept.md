@@ -38,7 +38,7 @@ To create a complete and dynamic framework, the event series will gradually evol
 2. **Semi-Logical Frameworks:** Introducing problem-solving methodologies based on G. Polya’s heuristic tables (decomposition, finding similarities, solving smaller problems).
 3. **Algorithmic Deduction:** Culminating with the introduction of Pappus’s chains, deduction of known truths, and pure algorithmics.
 
-By traversing from pure intuition to pure logic, the Horus Eye School structure (Logic, Intuition and Both) is fully realized.
+By traversing from logic to intuition and both, the Ancient Egyptian Horus Eye School structure (Logic, Intuition and Both) is fully realized.
 
 ## 6. Community and Future Implementation
 The LAB serves as an engaging, rare social event for the community. It addresses modern problems like mechanization of humans by appealing directly to humanism and humane and human in a human. The trend is that engineers try to make AI more human. While systems try to make humans more mechanised. The gap is widening - when are we going to be human and when will the systems become more humane? The answer is now. We must remember ourselves, our human nature, which is more than logic and algorithmics. By remembering it we can create more humane systems, more human-centric and ethical AI.
